@@ -77,16 +77,3 @@ Lately I've been working across two tracks: **production web apps** (React/Next.
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tejas2004-tk&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tejas2004-tk&layout=compact&theme=default&hide_border=true&langs_count=8">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas2004-tk&theme=default&hide_border=true">
-</p>
